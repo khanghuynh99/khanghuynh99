@@ -84,28 +84,29 @@ const JobList = () => {
   const experienceItems = {
     UPS: {
       jobTitle: "Software Development Engineer @",
-      duration: "JUL 2022 - PRESENT",
+      duration: "JAN 2022 - PRESENT",
       desc: [
-        "Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.",
+        "Lead standardization effort of multiple API's by eliminating custom JSON payloads resulting in a mitigation of tech debt by 25%",
         "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.",
         "Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
       ]
     },
     "Prospectus Group": {
       jobTitle: "Software Engineering Intern @",
-      duration: "MAY 2020 - APR 2021",
+      duration: "JAN 2021 - DEC 2021",
       desc: [
-        "Developed a responsive React web page (the new Story Details) from scratch, both on client and server side, for an app with massive scale (2 billion daily requests).",
-        "Iteratively built web experiences for 80 million users across high-traffic pages.",
+        "Developed a responsive React web page (the new Story Details) from scratch, both on client and server side, for an app with massive scale.",
+        "Iteratively built web experiences for users across high-traffic pages.",
         "Collaborated with senior engineers and product management following best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations."
       ]
     },
     "Georgia Institute of Technology": {
       jobTitle: "Research Engineer @",
-      duration: "MAY 2021 - SEPT 2021",
+      duration: "MAY 2019 - AUG 2020",
       desc: [
         "Developing and researching an NLP-based framework using state-of-the-art tools like Spacy and Stanza to facilitate the derivation of requirements from health data by leveraging syntactic dependencies, entity-recognition and rule-based match-making.",
-        " Application selected for DCS Research Award ($4,000) as part of the ”Visualizing Privacy Analysis Results” project led by Professor Marsha Chechik."
+        "Presented research efforts at 2021 National American Chemical Society (ACS) Conference",
+        "Published research paper to Wiley's Chemistry: A European Journal"
       ]
     },
     // Centivizer: {
